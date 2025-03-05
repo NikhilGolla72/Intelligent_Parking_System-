@@ -1,0 +1,1001 @@
+Vehicle Number,Vehicle Type,Weather,Traffic,Location,Parking Time
+ABC4091,Bike,Sunny,Medium,Office,4
+ABC8305,Car,Foggy,Low,Residential,7
+ABC1351,Car,Rainy,Low,Shopping Mall,4
+ABC1434,Truck,Rainy,Medium,Residential,9
+ABC2701,SUV,Foggy,High,Office,6
+ABC9598,SUV,Sunny,Medium,Office,4
+ABC7348,SUV,Rainy,Medium,Residential,8
+ABC1115,Bike,Snowy,Low,Residential,7
+ABC5676,Truck,Foggy,Medium,Office,6
+ABC8222,Car,Rainy,Low,Office,7
+ABC4002,Car,Snowy,Low,Residential,10
+ABC5421,Truck,Sunny,Low,Residential,8
+ABC8730,Truck,Sunny,Low,Shopping Mall,1
+ABC1662,Car,Foggy,High,Shopping Mall,4
+ABC1801,Car,Rainy,Low,Office,8
+ABC3451,Car,Snowy,High,Residential,7
+ABC5544,SUV,Snowy,Medium,Office,8
+ABC1825,Truck,Snowy,High,Shopping Mall,4
+ABC5824,Truck,Sunny,Medium,Shopping Mall,1
+ABC4882,Bike,Foggy,Low,Office,7
+ABC8155,Car,Sunny,Low,Residential,8
+ABC6764,SUV,Snowy,Low,Residential,10
+ABC3155,SUV,Rainy,Medium,Residential,9
+ABC1012,Truck,Snowy,High,Shopping Mall,3
+ABC7267,SUV,Rainy,Low,Shopping Mall,2
+ABC8513,Car,Foggy,Medium,Residential,8
+ABC9574,Truck,Foggy,High,Residential,14
+ABC2429,Truck,Rainy,Low,Residential,9
+ABC3270,SUV,Rainy,Low,Office,9
+ABC8849,Truck,Snowy,Medium,Shopping Mall,2
+ABC8717,SUV,Snowy,Medium,Office,4
+ABC8871,SUV,Foggy,Low,Shopping Mall,3
+ABC1345,Truck,Sunny,Medium,Office,4
+ABC4635,Truck,Foggy,Medium,Shopping Mall,4
+ABC4813,Bike,Foggy,Medium,Residential,7
+ABC6022,Truck,Rainy,Medium,Shopping Mall,3
+ABC9737,SUV,Sunny,Medium,Residential,7
+ABC7371,Car,Rainy,Medium,Office,7
+ABC4855,SUV,Sunny,Medium,Residential,6
+ABC5033,Car,Snowy,High,Residential,12
+ABC1336,Truck,Sunny,Medium,Office,8
+ABC3152,Bike,Rainy,High,Office,6
+ABC5324,SUV,Foggy,Low,Office,9
+ABC2099,Truck,Foggy,Low,Residential,11
+ABC7085,Bike,Foggy,Low,Office,6
+ABC7758,SUV,Rainy,Medium,Office,5
+ABC5029,Truck,Foggy,Medium,Residential,8
+ABC3060,Bike,Rainy,Medium,Shopping Mall,4
+ABC6897,SUV,Sunny,Medium,Office,5
+ABC6306,SUV,Rainy,High,Residential,9
+ABC2760,Bike,Foggy,Medium,Shopping Mall,2
+ABC6968,Bike,Sunny,Low,Office,8
+ABC8265,Bike,Sunny,Low,Office,4
+ABC5266,Bike,Foggy,Low,Residential,10
+ABC2989,Car,Foggy,Low,Shopping Mall,3
+ABC7108,SUV,Snowy,Medium,Shopping Mall,2
+ABC2809,Bike,Foggy,Medium,Shopping Mall,4
+ABC5869,SUV,Foggy,Medium,Office,5
+ABC9140,Truck,Snowy,Low,Residential,12
+ABC4570,Bike,Sunny,High,Office,8
+ABC4530,SUV,Foggy,High,Residential,10
+ABC8951,Car,Rainy,Low,Residential,8
+ABC1613,Truck,Snowy,Low,Shopping Mall,2
+ABC8342,Truck,Foggy,Medium,Residential,10
+ABC1667,Bike,Rainy,Medium,Shopping Mall,4
+ABC7927,Truck,Sunny,Medium,Office,7
+ABC8798,Truck,Foggy,Medium,Office,7
+ABC6355,Bike,Snowy,High,Office,9
+ABC2935,SUV,Snowy,High,Office,5
+ABC9601,Bike,Foggy,Medium,Office,5
+ABC1195,SUV,Rainy,Low,Office,8
+ABC1614,Car,Sunny,Low,Shopping Mall,1
+ABC2056,SUV,Snowy,High,Shopping Mall,2
+ABC4645,Car,Rainy,High,Residential,10
+ABC2692,Car,Sunny,High,Shopping Mall,4
+ABC8455,Bike,Snowy,Medium,Residential,6
+ABC1906,Bike,Rainy,Medium,Office,9
+ABC2565,Car,Snowy,High,Shopping Mall,4
+ABC7225,Car,Snowy,Low,Residential,6
+ABC9589,Bike,Snowy,Low,Shopping Mall,2
+ABC8683,Truck,Foggy,Low,Office,6
+ABC4289,Truck,Rainy,High,Shopping Mall,5
+ABC3250,Car,Foggy,Medium,Residential,10
+ABC1479,Truck,Sunny,High,Residential,12
+ABC9324,Car,Rainy,Medium,Office,7
+ABC7634,Car,Sunny,Medium,Residential,6
+ABC6465,SUV,Rainy,Low,Office,6
+ABC8738,SUV,Snowy,Low,Shopping Mall,3
+ABC7966,SUV,Sunny,Medium,Shopping Mall,2
+ABC1906,SUV,Sunny,Medium,Residential,12
+ABC4298,SUV,Rainy,High,Shopping Mall,4
+ABC6894,SUV,Snowy,High,Shopping Mall,4
+ABC9256,Bike,Rainy,Medium,Office,8
+ABC9705,Bike,Sunny,High,Shopping Mall,2
+ABC6769,Truck,Sunny,High,Residential,11
+ABC4110,SUV,Foggy,Medium,Office,9
+ABC6250,Truck,Sunny,Medium,Office,5
+ABC8514,Truck,Foggy,Medium,Shopping Mall,2
+ABC9289,Car,Foggy,Low,Office,5
+ABC7483,SUV,Foggy,Medium,Shopping Mall,3
+ABC4975,Truck,Snowy,Low,Residential,10
+ABC8473,Truck,Sunny,Low,Residential,7
+ABC6854,Car,Foggy,Medium,Residential,11
+ABC7267,Truck,Sunny,Medium,Residential,8
+ABC9750,Bike,Rainy,Medium,Office,6
+ABC1961,SUV,Rainy,Medium,Residential,7
+ABC4514,Truck,Foggy,Medium,Shopping Mall,3
+ABC6128,Bike,Foggy,Medium,Office,6
+ABC3762,Car,Foggy,Medium,Shopping Mall,2
+ABC9073,SUV,Sunny,High,Residential,11
+ABC9924,SUV,Sunny,High,Shopping Mall,4
+ABC1326,Car,Sunny,High,Residential,12
+ABC1511,Truck,Sunny,High,Residential,11
+ABC4863,Car,Sunny,Low,Shopping Mall,3
+ABC7556,Car,Sunny,Low,Residential,9
+ABC5927,Car,Rainy,Low,Residential,10
+ABC6679,Car,Foggy,High,Shopping Mall,4
+ABC5152,Truck,Snowy,Medium,Office,6
+ABC3350,Bike,Sunny,High,Office,7
+ABC3293,Truck,Rainy,Low,Residential,10
+ABC5250,Bike,Snowy,High,Residential,9
+ABC8736,SUV,Snowy,High,Residential,9
+ABC7401,Truck,Snowy,Low,Office,6
+ABC9554,Car,Snowy,High,Shopping Mall,4
+ABC5483,SUV,Snowy,Low,Residential,9
+ABC4435,Bike,Foggy,High,Office,9
+ABC3034,SUV,Foggy,Medium,Office,7
+ABC1149,Car,Snowy,High,Office,5
+ABC6175,Bike,Foggy,Low,Office,8
+ABC6212,Bike,Foggy,High,Residential,9
+ABC4901,Car,Sunny,Low,Office,7
+ABC5325,Bike,Foggy,Low,Office,7
+ABC4802,Truck,Rainy,High,Office,8
+ABC4787,Car,Snowy,Medium,Shopping Mall,2
+ABC2029,Bike,Snowy,High,Office,8
+ABC2735,Bike,Foggy,High,Shopping Mall,5
+ABC7724,SUV,Rainy,Medium,Shopping Mall,4
+ABC4606,Bike,Foggy,High,Residential,8
+ABC2593,Truck,Snowy,Medium,Shopping Mall,2
+ABC1569,Bike,Snowy,Low,Office,6
+ABC2773,Bike,Sunny,High,Residential,7
+ABC6810,Car,Sunny,High,Residential,12
+ABC2307,Car,Foggy,High,Shopping Mall,4
+ABC6884,SUV,Sunny,High,Shopping Mall,4
+ABC9702,Truck,Foggy,Medium,Office,8
+ABC7327,SUV,Sunny,High,Residential,13
+ABC4078,Car,Snowy,High,Shopping Mall,4
+ABC7608,SUV,Sunny,Low,Shopping Mall,3
+ABC3317,SUV,Foggy,High,Residential,14
+ABC6030,Car,Foggy,Medium,Shopping Mall,2
+ABC6099,Bike,Sunny,Medium,Residential,12
+ABC8650,Car,Foggy,Medium,Office,5
+ABC1152,Car,Snowy,Medium,Office,5
+ABC2716,Truck,Sunny,Low,Shopping Mall,1
+ABC5556,Car,Snowy,High,Shopping Mall,4
+ABC7175,SUV,Foggy,Low,Office,5
+ABC2147,Car,Sunny,Low,Residential,7
+ABC8558,Bike,Foggy,High,Residential,9
+ABC6949,SUV,Snowy,High,Office,8
+ABC8021,Truck,Rainy,High,Office,6
+ABC8509,Bike,Snowy,Medium,Residential,9
+ABC2227,Bike,Sunny,Low,Office,5
+ABC6772,Truck,Rainy,Low,Office,9
+ABC2070,Car,Snowy,Low,Shopping Mall,2
+ABC1318,Truck,Foggy,High,Shopping Mall,5
+ABC7128,Car,Rainy,Low,Shopping Mall,4
+ABC5769,Bike,Snowy,Medium,Residential,7
+ABC9585,SUV,Snowy,Medium,Residential,9
+ABC9355,SUV,Rainy,Medium,Office,7
+ABC8385,Truck,Rainy,Low,Shopping Mall,2
+ABC4518,SUV,Foggy,Low,Residential,9
+ABC3988,Car,Snowy,Low,Office,6
+ABC5235,Truck,Foggy,Low,Shopping Mall,2
+ABC7476,Bike,Snowy,Medium,Shopping Mall,2
+ABC5995,Bike,Snowy,Low,Office,7
+ABC5314,Truck,Sunny,Low,Residential,12
+ABC5256,SUV,Snowy,Medium,Office,4
+ABC4929,Car,Sunny,Medium,Shopping Mall,2
+ABC4992,SUV,Foggy,Low,Office,7
+ABC5484,Bike,Snowy,Low,Residential,7
+ABC9673,Truck,Snowy,High,Office,6
+ABC7668,SUV,Rainy,Low,Residential,9
+ABC5958,Truck,Sunny,Medium,Shopping Mall,2
+ABC1248,Bike,Foggy,High,Residential,14
+ABC7966,Truck,Snowy,Low,Residential,12
+ABC8366,Bike,Foggy,Medium,Office,5
+ABC7055,Bike,Snowy,High,Residential,10
+ABC8158,Car,Snowy,High,Office,8
+ABC7891,Car,Foggy,Low,Shopping Mall,2
+ABC2603,Car,Snowy,High,Shopping Mall,3
+ABC7006,Bike,Sunny,Low,Shopping Mall,3
+ABC5301,Bike,Foggy,Low,Residential,13
+ABC7291,Truck,Sunny,High,Residential,9
+ABC8226,SUV,Foggy,High,Shopping Mall,5
+ABC3449,SUV,Rainy,High,Shopping Mall,4
+ABC6777,Bike,Rainy,Medium,Office,8
+ABC3538,Truck,Snowy,High,Residential,10
+ABC4997,SUV,Foggy,Medium,Office,8
+ABC7952,Truck,Rainy,Medium,Shopping Mall,4
+ABC8240,Car,Sunny,Low,Office,4
+ABC1382,Car,Sunny,Low,Residential,6
+ABC2282,Truck,Foggy,High,Residential,8
+ABC8660,Car,Foggy,High,Office,9
+ABC3815,SUV,Rainy,Medium,Office,8
+ABC4888,Bike,Snowy,Low,Office,6
+ABC1112,Car,Foggy,Low,Shopping Mall,4
+ABC7819,Car,Rainy,Medium,Office,9
+ABC8409,SUV,Foggy,High,Shopping Mall,3
+ABC4073,Car,Rainy,Low,Office,7
+ABC4862,Truck,Snowy,Medium,Shopping Mall,2
+ABC4299,Bike,Rainy,Low,Shopping Mall,3
+ABC6401,Truck,Sunny,Medium,Office,8
+ABC2573,Bike,Sunny,High,Shopping Mall,4
+ABC1558,Bike,Sunny,Low,Residential,8
+ABC8967,Car,Snowy,Low,Office,6
+ABC7041,Truck,Snowy,Medium,Office,5
+ABC5837,Bike,Snowy,High,Residential,7
+ABC8803,Car,Sunny,Low,Office,8
+ABC1907,SUV,Sunny,Medium,Shopping Mall,2
+ABC3310,SUV,Sunny,Low,Shopping Mall,2
+ABC7979,Truck,Rainy,High,Office,6
+ABC9741,Bike,Foggy,High,Office,6
+ABC3031,Bike,Snowy,Medium,Shopping Mall,3
+ABC6520,Car,Foggy,Medium,Residential,10
+ABC3971,Car,Rainy,High,Residential,11
+ABC2748,SUV,Sunny,Low,Shopping Mall,1
+ABC3278,SUV,Foggy,High,Residential,10
+ABC4810,Truck,Foggy,Medium,Shopping Mall,2
+ABC1575,Truck,Rainy,High,Residential,13
+ABC7682,SUV,Foggy,Low,Residential,9
+ABC3474,SUV,Sunny,Low,Shopping Mall,1
+ABC9306,SUV,Rainy,Medium,Office,6
+ABC9872,Truck,Sunny,Low,Office,4
+ABC2781,Bike,Rainy,Low,Residential,7
+ABC8982,Truck,Rainy,Low,Shopping Mall,2
+ABC4766,Bike,Foggy,Medium,Shopping Mall,2
+ABC4943,Bike,Sunny,High,Office,9
+ABC3784,SUV,Snowy,Medium,Office,4
+ABC3494,Bike,Rainy,Low,Residential,13
+ABC7403,Bike,Rainy,Low,Office,5
+ABC3542,Bike,Sunny,High,Office,8
+ABC5359,Bike,Foggy,Medium,Office,6
+ABC8702,Truck,Rainy,Medium,Shopping Mall,3
+ABC7130,Car,Sunny,Low,Office,5
+ABC4427,Truck,Rainy,Medium,Shopping Mall,2
+ABC7402,Truck,Foggy,Low,Shopping Mall,4
+ABC9944,Bike,Snowy,Medium,Shopping Mall,1
+ABC2997,Car,Foggy,High,Shopping Mall,5
+ABC2463,Car,Snowy,Low,Shopping Mall,3
+ABC7015,Bike,Sunny,Low,Office,8
+ABC1989,Bike,Foggy,Medium,Office,7
+ABC8851,Truck,Sunny,Medium,Office,6
+ABC2402,SUV,Rainy,Medium,Office,7
+ABC7533,Bike,Sunny,High,Office,5
+ABC7002,SUV,Snowy,High,Residential,9
+ABC6595,SUV,Sunny,Low,Residential,7
+ABC6224,SUV,Rainy,Low,Residential,10
+ABC7941,Car,Sunny,High,Shopping Mall,4
+ABC4432,Truck,Snowy,Medium,Office,6
+ABC4071,SUV,Sunny,Low,Office,8
+ABC8892,SUV,Foggy,Medium,Office,5
+ABC6028,SUV,Sunny,Medium,Office,8
+ABC4288,Bike,Foggy,High,Office,10
+ABC8675,SUV,Rainy,High,Residential,8
+ABC9924,Bike,Foggy,Medium,Office,9
+ABC8965,Bike,Sunny,Medium,Shopping Mall,3
+ABC3414,Truck,Sunny,High,Office,8
+ABC6235,SUV,Snowy,Medium,Residential,9
+ABC4624,Truck,Sunny,High,Shopping Mall,2
+ABC2062,Car,Rainy,Low,Shopping Mall,4
+ABC9941,SUV,Foggy,High,Office,8
+ABC6753,SUV,Foggy,Low,Residential,8
+ABC6400,SUV,Sunny,Low,Shopping Mall,3
+ABC6447,Car,Foggy,High,Shopping Mall,3
+ABC1894,Bike,Rainy,High,Shopping Mall,5
+ABC4909,SUV,Snowy,High,Shopping Mall,4
+ABC3176,Car,Rainy,Medium,Shopping Mall,3
+ABC7225,Truck,Foggy,High,Shopping Mall,4
+ABC7839,Car,Sunny,Low,Residential,8
+ABC5304,Car,Sunny,Low,Residential,8
+ABC1504,SUV,Snowy,Low,Shopping Mall,2
+ABC1082,Car,Foggy,Medium,Shopping Mall,3
+ABC7411,Truck,Foggy,Low,Office,8
+ABC6586,SUV,Sunny,Low,Residential,8
+ABC2943,Car,Snowy,Low,Shopping Mall,3
+ABC9605,Truck,Sunny,Low,Office,8
+ABC3887,Truck,Sunny,Low,Shopping Mall,3
+ABC4341,Truck,Rainy,High,Office,6
+ABC9792,Car,Foggy,Low,Office,8
+ABC3799,SUV,Foggy,Medium,Residential,13
+ABC9492,SUV,Snowy,Medium,Residential,8
+ABC7914,SUV,Sunny,Medium,Office,5
+ABC3983,Bike,Foggy,Low,Shopping Mall,3
+ABC1252,Car,Snowy,Low,Residential,6
+ABC7894,Car,Rainy,Low,Residential,12
+ABC9756,SUV,Foggy,High,Office,8
+ABC3300,Car,Sunny,Medium,Residential,6
+ABC3810,Bike,Foggy,Low,Shopping Mall,3
+ABC4714,Car,Snowy,Low,Office,7
+ABC9708,SUV,Sunny,Low,Shopping Mall,2
+ABC3447,Car,Sunny,Low,Residential,6
+ABC2372,Truck,Snowy,High,Office,7
+ABC1507,Car,Snowy,High,Office,7
+ABC7525,Car,Snowy,Medium,Office,7
+ABC4284,Bike,Sunny,Low,Shopping Mall,2
+ABC7893,Car,Rainy,Low,Residential,9
+ABC2506,SUV,Foggy,Low,Office,5
+ABC3001,Bike,Snowy,Low,Shopping Mall,1
+ABC2798,Bike,Sunny,Medium,Residential,10
+ABC2774,SUV,Sunny,High,Office,9
+ABC4959,SUV,Sunny,Medium,Shopping Mall,3
+ABC9538,Bike,Snowy,Medium,Office,6
+ABC6012,Car,Foggy,Medium,Office,5
+ABC6816,Truck,Snowy,High,Residential,11
+ABC3386,Car,Foggy,High,Shopping Mall,5
+ABC9191,Bike,Rainy,Medium,Residential,7
+ABC4671,SUV,Foggy,High,Office,8
+ABC4984,Car,Foggy,High,Office,9
+ABC5619,Car,Snowy,Low,Office,6
+ABC3307,SUV,Rainy,Medium,Residential,12
+ABC4384,Truck,Foggy,Medium,Residential,7
+ABC4982,Truck,Rainy,Low,Residential,11
+ABC7926,Bike,Sunny,Low,Office,5
+ABC3267,SUV,Snowy,High,Shopping Mall,4
+ABC6604,Bike,Sunny,Medium,Office,8
+ABC2337,Bike,Sunny,Low,Shopping Mall,1
+ABC5002,Car,Snowy,Low,Shopping Mall,3
+ABC2049,Car,Rainy,Medium,Residential,12
+ABC2877,Truck,Sunny,High,Office,5
+ABC8039,Bike,Snowy,High,Office,9
+ABC6421,SUV,Snowy,Low,Office,6
+ABC8190,Bike,Snowy,High,Shopping Mall,3
+ABC9488,SUV,Rainy,Low,Office,8
+ABC9280,SUV,Sunny,High,Shopping Mall,4
+ABC4403,Bike,Snowy,Medium,Shopping Mall,2
+ABC7581,Truck,Snowy,Low,Residential,8
+ABC1264,Car,Rainy,Medium,Office,7
+ABC4450,Truck,Rainy,Low,Shopping Mall,4
+ABC7322,SUV,Rainy,Medium,Office,9
+ABC9618,Truck,Snowy,Medium,Residential,11
+ABC9003,SUV,Rainy,High,Office,8
+ABC3659,SUV,Sunny,Low,Residential,8
+ABC6445,SUV,Sunny,Medium,Residential,6
+ABC3453,Truck,Rainy,High,Residential,9
+ABC6401,SUV,Sunny,Medium,Shopping Mall,1
+ABC4749,SUV,Snowy,High,Residential,10
+ABC6203,Truck,Foggy,High,Residential,9
+ABC4728,Car,Sunny,Low,Office,4
+ABC8650,Truck,Snowy,Low,Shopping Mall,1
+ABC4926,SUV,Foggy,Medium,Office,6
+ABC7737,SUV,Rainy,Medium,Residential,8
+ABC4891,Car,Rainy,Medium,Office,6
+ABC1122,SUV,Snowy,High,Shopping Mall,4
+ABC5195,Bike,Sunny,Low,Office,4
+ABC3125,Bike,Snowy,Low,Shopping Mall,1
+ABC9515,Truck,Rainy,Low,Office,8
+ABC8377,Car,Sunny,Medium,Residential,8
+ABC7974,SUV,Foggy,Low,Residential,10
+ABC6492,Truck,Foggy,High,Shopping Mall,5
+ABC8059,Car,Foggy,Medium,Residential,10
+ABC8906,SUV,Snowy,High,Office,7
+ABC4516,Truck,Sunny,Low,Shopping Mall,2
+ABC8239,Bike,Sunny,Medium,Residential,9
+ABC2097,Car,Snowy,Low,Residential,7
+ABC1361,Truck,Snowy,High,Residential,10
+ABC6205,Bike,Foggy,Low,Residential,13
+ABC3493,Car,Foggy,Low,Shopping Mall,2
+ABC8119,Car,Snowy,Medium,Office,7
+ABC7562,Truck,Sunny,Low,Shopping Mall,3
+ABC7628,Car,Foggy,High,Office,8
+ABC9255,Bike,Snowy,Medium,Residential,10
+ABC4410,Truck,Snowy,High,Office,9
+ABC3154,SUV,Rainy,High,Shopping Mall,5
+ABC9512,SUV,Sunny,High,Office,7
+ABC1997,SUV,Rainy,Medium,Shopping Mall,3
+ABC3291,Bike,Rainy,High,Office,6
+ABC8230,Car,Snowy,Low,Shopping Mall,2
+ABC2920,Car,Snowy,Low,Residential,6
+ABC5229,Car,Rainy,Low,Office,5
+ABC1040,Truck,Rainy,Low,Shopping Mall,2
+ABC3220,Car,Snowy,Medium,Residential,6
+ABC4866,SUV,Snowy,High,Residential,13
+ABC3255,Bike,Foggy,Medium,Office,7
+ABC1789,Car,Snowy,Low,Residential,10
+ABC1101,Car,Snowy,Low,Shopping Mall,1
+ABC2631,Bike,Sunny,Low,Shopping Mall,1
+ABC5292,Truck,Snowy,Medium,Shopping Mall,3
+ABC8935,Car,Sunny,Low,Residential,10
+ABC1985,Truck,Rainy,Low,Shopping Mall,4
+ABC4159,Bike,Foggy,High,Residential,12
+ABC9003,SUV,Snowy,Low,Residential,6
+ABC9193,SUV,Sunny,Low,Office,4
+ABC1298,Car,Rainy,Medium,Office,6
+ABC8215,Bike,Sunny,High,Shopping Mall,3
+ABC1844,Car,Snowy,Low,Shopping Mall,3
+ABC9321,SUV,Rainy,Medium,Office,5
+ABC5491,Truck,Snowy,Low,Shopping Mall,2
+ABC2672,Bike,Snowy,Low,Office,5
+ABC2339,Bike,Rainy,Medium,Residential,8
+ABC2777,Truck,Foggy,Medium,Office,6
+ABC8174,SUV,Rainy,Medium,Residential,11
+ABC4215,SUV,Snowy,Medium,Residential,9
+ABC6004,Car,Snowy,High,Residential,11
+ABC8484,Car,Rainy,High,Residential,9
+ABC2879,Car,Snowy,High,Residential,13
+ABC7408,Truck,Foggy,Low,Residential,11
+ABC8271,SUV,Foggy,Low,Residential,12
+ABC7931,Truck,Sunny,High,Residential,11
+ABC6544,SUV,Foggy,High,Residential,13
+ABC6288,Bike,Sunny,Low,Shopping Mall,2
+ABC9824,SUV,Rainy,Medium,Shopping Mall,4
+ABC3026,Bike,Rainy,Low,Shopping Mall,2
+ABC4202,SUV,Sunny,Medium,Residential,12
+ABC5376,Bike,Snowy,High,Shopping Mall,2
+ABC2908,Bike,Foggy,Low,Shopping Mall,4
+ABC9744,Truck,Rainy,High,Shopping Mall,3
+ABC7052,Bike,Sunny,Medium,Shopping Mall,2
+ABC9540,Truck,Rainy,High,Office,9
+ABC3948,Bike,Snowy,High,Residential,8
+ABC3139,Car,Sunny,Medium,Shopping Mall,3
+ABC7449,Car,Foggy,Low,Office,5
+ABC7189,Car,Foggy,Medium,Shopping Mall,3
+ABC2058,Car,Snowy,Medium,Residential,12
+ABC2278,Car,Rainy,Medium,Residential,10
+ABC3659,SUV,Sunny,Medium,Residential,10
+ABC3644,Bike,Snowy,Medium,Shopping Mall,3
+ABC8811,SUV,Snowy,High,Residential,9
+ABC4063,Car,Sunny,Medium,Office,6
+ABC1494,Truck,Sunny,Low,Residential,6
+ABC7880,Car,Rainy,Low,Shopping Mall,2
+ABC6730,SUV,Foggy,High,Office,7
+ABC9639,Bike,Sunny,High,Shopping Mall,3
+ABC4261,Car,Rainy,Low,Office,8
+ABC3384,SUV,Sunny,Medium,Residential,9
+ABC1916,Truck,Rainy,Low,Shopping Mall,3
+ABC5336,Bike,Rainy,Low,Shopping Mall,3
+ABC7832,Truck,Foggy,High,Office,7
+ABC3766,Truck,Rainy,Medium,Office,7
+ABC8018,Truck,Foggy,Medium,Residential,12
+ABC5056,Truck,Foggy,Medium,Shopping Mall,2
+ABC8463,Car,Sunny,Low,Residential,9
+ABC8240,SUV,Foggy,Low,Residential,12
+ABC6011,SUV,Sunny,Low,Office,8
+ABC6338,SUV,Sunny,Low,Shopping Mall,1
+ABC3458,SUV,Snowy,High,Residential,12
+ABC6962,Bike,Foggy,Low,Office,9
+ABC5243,SUV,Foggy,Medium,Residential,13
+ABC8137,SUV,Rainy,Low,Shopping Mall,4
+ABC9549,Truck,Foggy,High,Office,6
+ABC7902,Bike,Rainy,Low,Shopping Mall,3
+ABC3268,Bike,Foggy,Low,Shopping Mall,3
+ABC7753,Bike,Sunny,High,Office,8
+ABC7687,Car,Sunny,Medium,Residential,8
+ABC1727,Truck,Snowy,Medium,Shopping Mall,1
+ABC7470,Bike,Snowy,High,Residential,7
+ABC3085,SUV,Rainy,Medium,Office,8
+ABC8476,Truck,Foggy,Medium,Shopping Mall,4
+ABC2189,SUV,Snowy,Low,Office,4
+ABC1150,Truck,Sunny,Low,Residential,10
+ABC4119,SUV,Rainy,High,Residential,10
+ABC9477,Bike,Rainy,High,Shopping Mall,4
+ABC6556,Truck,Foggy,High,Office,8
+ABC1704,Bike,Snowy,Medium,Residential,10
+ABC2291,Bike,Sunny,Low,Residential,9
+ABC4253,Bike,Rainy,Low,Shopping Mall,4
+ABC9848,Truck,Rainy,Medium,Office,8
+ABC3334,Bike,Sunny,Medium,Shopping Mall,2
+ABC7171,Bike,Foggy,Low,Shopping Mall,2
+ABC2954,SUV,Sunny,Low,Office,5
+ABC9551,Car,Rainy,High,Office,10
+ABC5375,Bike,Foggy,Medium,Shopping Mall,2
+ABC7406,Truck,Foggy,Medium,Residential,7
+ABC9236,Car,Sunny,High,Office,5
+ABC6870,Truck,Rainy,Low,Residential,12
+ABC7977,Truck,Snowy,Low,Residential,11
+ABC8103,Car,Sunny,Medium,Shopping Mall,1
+ABC9361,Bike,Rainy,Low,Office,7
+ABC6796,Car,Snowy,Medium,Residential,7
+ABC3994,Truck,Snowy,Medium,Office,7
+ABC4073,SUV,Rainy,Low,Shopping Mall,3
+ABC5458,SUV,Rainy,High,Shopping Mall,4
+ABC6734,Bike,Snowy,Low,Office,4
+ABC6729,Truck,Foggy,High,Office,8
+ABC8451,Truck,Snowy,Low,Shopping Mall,1
+ABC8628,SUV,Sunny,Low,Office,4
+ABC5245,Bike,Snowy,Low,Office,4
+ABC4639,Truck,Sunny,Medium,Shopping Mall,3
+ABC5611,SUV,Rainy,High,Residential,9
+ABC4713,Car,Snowy,Low,Residential,7
+ABC4352,Truck,Rainy,Medium,Office,8
+ABC8202,Bike,Rainy,Low,Residential,7
+ABC9701,Car,Foggy,Medium,Residential,9
+ABC5726,Bike,Foggy,Medium,Office,9
+ABC6029,Truck,Rainy,Low,Shopping Mall,3
+ABC2738,Truck,Foggy,Medium,Shopping Mall,3
+ABC6178,Car,Sunny,Medium,Shopping Mall,1
+ABC3344,Truck,Sunny,Low,Residential,9
+ABC4200,Bike,Rainy,Medium,Office,7
+ABC5597,Bike,Rainy,Medium,Office,5
+ABC9100,SUV,Rainy,High,Office,8
+ABC6356,Bike,Snowy,Low,Residential,8
+ABC1886,Bike,Sunny,Medium,Residential,9
+ABC5958,Bike,Foggy,Medium,Office,7
+ABC5644,Car,Foggy,High,Office,7
+ABC9355,Truck,Foggy,Low,Residential,7
+ABC3126,SUV,Snowy,Medium,Shopping Mall,3
+ABC2788,Car,Snowy,Low,Residential,6
+ABC1427,Truck,Snowy,Medium,Residential,11
+ABC9780,Car,Snowy,High,Shopping Mall,4
+ABC2039,SUV,Foggy,Low,Office,9
+ABC4733,Bike,Foggy,Medium,Residential,11
+ABC6258,Bike,Rainy,High,Shopping Mall,4
+ABC4045,SUV,Rainy,High,Shopping Mall,5
+ABC5688,Bike,Rainy,Low,Office,7
+ABC5304,SUV,Rainy,High,Shopping Mall,3
+ABC3648,Car,Sunny,Low,Residential,9
+ABC5033,SUV,Sunny,High,Office,9
+ABC9159,Car,Snowy,High,Residential,10
+ABC7518,Truck,Snowy,Low,Residential,9
+ABC1396,Bike,Sunny,High,Residential,10
+ABC8694,Bike,Snowy,Low,Shopping Mall,2
+ABC9444,Bike,Foggy,High,Residential,14
+ABC7550,Bike,Rainy,Medium,Residential,12
+ABC6663,Truck,Snowy,High,Office,7
+ABC5773,Bike,Snowy,High,Residential,12
+ABC8382,SUV,Sunny,Low,Residential,11
+ABC2071,Car,Foggy,Low,Office,6
+ABC2001,Truck,Sunny,Medium,Residential,12
+ABC2539,Truck,Rainy,High,Residential,13
+ABC9839,Truck,Sunny,High,Residential,9
+ABC9951,Truck,Foggy,Medium,Office,9
+ABC8810,SUV,Sunny,Low,Office,8
+ABC4202,Bike,Rainy,Low,Shopping Mall,3
+ABC5849,Truck,Sunny,High,Residential,13
+ABC7293,Bike,Sunny,Low,Shopping Mall,3
+ABC6249,SUV,Foggy,High,Office,10
+ABC7673,Car,Rainy,Low,Office,7
+ABC4925,Car,Foggy,High,Shopping Mall,3
+ABC1754,Truck,Sunny,Medium,Residential,10
+ABC6862,Bike,Sunny,Medium,Shopping Mall,1
+ABC2703,Bike,Snowy,Low,Residential,8
+ABC5583,Bike,Snowy,High,Residential,10
+ABC1051,Car,Rainy,Medium,Residential,7
+ABC8351,SUV,Sunny,Low,Shopping Mall,3
+ABC2098,Bike,Foggy,Medium,Shopping Mall,2
+ABC3113,Car,Snowy,High,Shopping Mall,2
+ABC9081,Car,Rainy,Medium,Residential,13
+ABC1842,Car,Foggy,Low,Residential,7
+ABC1120,Bike,Snowy,Low,Residential,12
+ABC1768,Car,Rainy,Medium,Residential,10
+ABC3237,SUV,Snowy,High,Residential,8
+ABC3443,SUV,Rainy,Low,Office,5
+ABC1673,Car,Rainy,High,Shopping Mall,5
+ABC3096,Car,Sunny,Low,Office,7
+ABC5860,Truck,Rainy,High,Office,10
+ABC4688,SUV,Rainy,Low,Shopping Mall,2
+ABC4242,Truck,Rainy,High,Shopping Mall,5
+ABC3059,Truck,Sunny,Low,Residential,8
+ABC4782,Truck,Rainy,Medium,Residential,13
+ABC8573,SUV,Sunny,High,Office,5
+ABC5719,SUV,Foggy,Medium,Shopping Mall,4
+ABC9697,Bike,Snowy,High,Residential,8
+ABC4759,Bike,Sunny,High,Shopping Mall,3
+ABC2170,SUV,Sunny,Low,Office,8
+ABC8981,Truck,Foggy,Low,Office,7
+ABC2853,Bike,Snowy,Medium,Residential,12
+ABC2856,Car,Sunny,High,Office,9
+ABC7396,Car,Snowy,High,Shopping Mall,2
+ABC9126,Truck,Sunny,Medium,Shopping Mall,3
+ABC8186,Car,Foggy,High,Residential,14
+ABC1174,Truck,Sunny,Medium,Residential,11
+ABC9145,Car,Sunny,Medium,Shopping Mall,1
+ABC5013,SUV,Sunny,Low,Residential,7
+ABC5602,Bike,Snowy,Medium,Residential,11
+ABC4798,Car,Sunny,Medium,Shopping Mall,3
+ABC7543,Car,Foggy,Low,Shopping Mall,4
+ABC4341,Truck,Foggy,High,Residential,14
+ABC6675,Bike,Snowy,High,Residential,7
+ABC1114,Bike,Sunny,High,Residential,12
+ABC9767,Bike,Sunny,High,Residential,13
+ABC9786,SUV,Sunny,Low,Office,7
+ABC3952,Car,Foggy,High,Shopping Mall,3
+ABC9753,SUV,Foggy,Low,Office,6
+ABC5344,Bike,Snowy,Medium,Shopping Mall,1
+ABC5412,SUV,Sunny,High,Residential,11
+ABC9334,SUV,Sunny,Medium,Residential,7
+ABC8520,Bike,Rainy,Low,Office,7
+ABC7451,SUV,Foggy,High,Office,10
+ABC1698,Bike,Rainy,High,Office,10
+ABC1316,Truck,Rainy,Medium,Office,8
+ABC5744,Car,Foggy,Low,Shopping Mall,4
+ABC8931,Truck,Sunny,High,Shopping Mall,4
+ABC7077,Car,Foggy,Medium,Office,9
+ABC6287,Bike,Sunny,High,Residential,10
+ABC3598,SUV,Rainy,High,Shopping Mall,4
+ABC2978,Truck,Foggy,Low,Office,7
+ABC6871,SUV,Foggy,High,Shopping Mall,4
+ABC6679,Car,Foggy,Medium,Office,9
+ABC9554,Car,Rainy,Low,Shopping Mall,4
+ABC9277,SUV,Snowy,High,Residential,13
+ABC5387,SUV,Sunny,High,Residential,13
+ABC8863,SUV,Sunny,High,Office,9
+ABC4465,Truck,Snowy,High,Shopping Mall,2
+ABC7668,Truck,Rainy,High,Office,9
+ABC9863,SUV,Foggy,High,Residential,13
+ABC7956,Car,Snowy,High,Shopping Mall,4
+ABC6359,Bike,Snowy,Medium,Shopping Mall,3
+ABC5047,Truck,Sunny,High,Residential,11
+ABC8038,SUV,Rainy,High,Residential,12
+ABC3646,Car,Sunny,Low,Shopping Mall,2
+ABC4486,SUV,Snowy,Low,Shopping Mall,2
+ABC4602,Car,Foggy,Low,Shopping Mall,4
+ABC9851,Bike,Sunny,Medium,Office,4
+ABC8277,Truck,Sunny,High,Office,6
+ABC6499,Car,Foggy,Medium,Office,7
+ABC7666,SUV,Snowy,Medium,Shopping Mall,1
+ABC4686,Truck,Snowy,High,Office,6
+ABC9016,Truck,Sunny,Low,Residential,8
+ABC3565,Bike,Snowy,Low,Shopping Mall,1
+ABC8052,Truck,Rainy,Low,Office,9
+ABC1603,Truck,Sunny,Low,Shopping Mall,3
+ABC1943,Bike,Rainy,High,Residential,12
+ABC3440,Truck,Rainy,Medium,Residential,7
+ABC1769,Truck,Foggy,Medium,Residential,11
+ABC9908,Car,Sunny,Low,Residential,10
+ABC2248,Car,Rainy,Low,Shopping Mall,2
+ABC7060,Bike,Snowy,Low,Shopping Mall,1
+ABC6544,Bike,Sunny,Low,Residential,10
+ABC9311,Bike,Foggy,High,Office,8
+ABC9913,Car,Rainy,Medium,Shopping Mall,2
+ABC8397,Truck,Sunny,Medium,Shopping Mall,1
+ABC2114,Truck,Rainy,Low,Office,9
+ABC7509,SUV,Rainy,High,Residential,10
+ABC1593,Bike,Rainy,Medium,Office,8
+ABC8898,Truck,Rainy,Low,Office,9
+ABC5720,Bike,Sunny,Medium,Office,6
+ABC2917,Car,Sunny,Medium,Shopping Mall,1
+ABC2697,Truck,Sunny,Low,Residential,7
+ABC7587,SUV,Foggy,High,Residential,9
+ABC7906,Bike,Sunny,Medium,Office,6
+ABC1192,SUV,Snowy,Medium,Office,7
+ABC2818,Car,Snowy,High,Office,9
+ABC2033,SUV,Sunny,High,Shopping Mall,2
+ABC1385,SUV,Rainy,Low,Shopping Mall,3
+ABC7779,SUV,Sunny,Medium,Office,4
+ABC6343,Car,Sunny,Low,Residential,10
+ABC9659,SUV,Rainy,Medium,Office,5
+ABC9984,Car,Rainy,Medium,Office,7
+ABC4448,Bike,Foggy,High,Shopping Mall,5
+ABC9251,Bike,Rainy,High,Residential,9
+ABC2373,SUV,Foggy,Medium,Shopping Mall,2
+ABC9574,Car,Snowy,Medium,Shopping Mall,1
+ABC1498,Bike,Snowy,High,Office,8
+ABC3790,Truck,Foggy,Medium,Shopping Mall,2
+ABC9191,Bike,Snowy,High,Office,8
+ABC7219,Bike,Sunny,Low,Shopping Mall,2
+ABC3609,Truck,Snowy,Medium,Office,6
+ABC2453,Bike,Sunny,High,Shopping Mall,2
+ABC6551,SUV,Snowy,Medium,Residential,9
+ABC6773,Bike,Snowy,Medium,Office,4
+ABC2733,Truck,Sunny,Low,Office,6
+ABC6899,Car,Foggy,Medium,Office,6
+ABC3320,Bike,Rainy,Medium,Office,7
+ABC6577,SUV,Rainy,Medium,Residential,9
+ABC8916,Bike,Sunny,Medium,Residential,9
+ABC7613,Truck,Sunny,Medium,Office,7
+ABC6054,Bike,Snowy,Low,Residential,6
+ABC6566,Car,Sunny,High,Residential,12
+ABC2450,SUV,Foggy,Low,Office,8
+ABC5875,Bike,Rainy,Medium,Office,8
+ABC6222,Bike,Foggy,Medium,Residential,13
+ABC3550,Car,Foggy,Low,Residential,7
+ABC5404,Car,Sunny,Low,Shopping Mall,1
+ABC3096,Car,Sunny,High,Office,7
+ABC6361,Bike,Snowy,Medium,Office,7
+ABC8626,Car,Snowy,Medium,Shopping Mall,3
+ABC3459,Bike,Foggy,Medium,Office,7
+ABC7412,Truck,Sunny,Medium,Residential,6
+ABC6609,Bike,Foggy,High,Residential,11
+ABC8852,Truck,Sunny,High,Office,8
+ABC5717,SUV,Foggy,High,Office,8
+ABC9576,Truck,Snowy,High,Residential,12
+ABC2434,Car,Sunny,Low,Residential,6
+ABC2834,Car,Rainy,Medium,Shopping Mall,4
+ABC8128,Bike,Foggy,Low,Office,9
+ABC5093,Bike,Rainy,Low,Office,6
+ABC3150,Bike,Foggy,High,Shopping Mall,4
+ABC2428,Bike,Sunny,High,Office,5
+ABC6246,SUV,Rainy,Low,Residential,9
+ABC5714,Bike,Rainy,Medium,Residential,8
+ABC3633,Truck,Foggy,Low,Shopping Mall,4
+ABC8200,SUV,Rainy,Medium,Shopping Mall,2
+ABC2699,Truck,Sunny,Low,Office,7
+ABC6109,SUV,Snowy,Medium,Residential,10
+ABC2497,SUV,Sunny,Low,Shopping Mall,1
+ABC4007,SUV,Snowy,Medium,Shopping Mall,2
+ABC8261,Truck,Snowy,Medium,Shopping Mall,3
+ABC5918,SUV,Rainy,Low,Residential,9
+ABC2800,Truck,Sunny,High,Shopping Mall,3
+ABC7336,Car,Rainy,Low,Residential,11
+ABC9659,Car,Foggy,Medium,Shopping Mall,3
+ABC5550,SUV,Rainy,High,Residential,10
+ABC9845,Car,Foggy,Low,Shopping Mall,2
+ABC9362,Car,Sunny,Medium,Shopping Mall,1
+ABC6551,SUV,Rainy,Low,Residential,9
+ABC8338,Bike,Foggy,Medium,Shopping Mall,2
+ABC3503,Car,Snowy,Medium,Residential,9
+ABC2818,Car,Foggy,Medium,Residential,10
+ABC7203,Truck,Snowy,Medium,Shopping Mall,2
+ABC6554,SUV,Rainy,Low,Office,6
+ABC5072,SUV,Snowy,High,Office,8
+ABC6047,Truck,Rainy,Low,Office,6
+ABC2329,Bike,Snowy,Low,Residential,10
+ABC1258,Bike,Foggy,Medium,Shopping Mall,3
+ABC7734,Bike,Foggy,High,Office,8
+ABC4399,SUV,Snowy,High,Residential,9
+ABC1711,Truck,Foggy,Medium,Residential,10
+ABC3927,SUV,Snowy,High,Residential,7
+ABC8019,Bike,Foggy,Low,Office,9
+ABC3098,Bike,Foggy,Medium,Office,7
+ABC7709,SUV,Sunny,High,Residential,7
+ABC1017,Truck,Sunny,Low,Residential,6
+ABC6770,Car,Rainy,High,Office,10
+ABC7371,Bike,Rainy,High,Residential,9
+ABC4051,Truck,Foggy,Medium,Office,7
+ABC8130,SUV,Snowy,Low,Shopping Mall,2
+ABC8778,Truck,Snowy,Medium,Shopping Mall,2
+ABC6090,Truck,Foggy,Low,Residential,8
+ABC3544,Truck,Sunny,Low,Shopping Mall,1
+ABC1993,Car,Foggy,Medium,Office,5
+ABC6477,Truck,Snowy,Medium,Shopping Mall,1
+ABC5229,Truck,Snowy,Medium,Office,4
+ABC7612,Truck,Snowy,Medium,Shopping Mall,2
+ABC5169,Truck,Sunny,Low,Shopping Mall,3
+ABC4763,Truck,Rainy,High,Office,9
+ABC9806,SUV,Sunny,Medium,Residential,8
+ABC5607,Truck,Foggy,Medium,Shopping Mall,2
+ABC9383,Bike,Foggy,High,Residential,14
+ABC2290,Car,Foggy,High,Residential,12
+ABC9585,Car,Sunny,Medium,Shopping Mall,2
+ABC3905,Truck,Foggy,High,Residential,9
+ABC4149,Bike,Sunny,Low,Residential,7
+ABC7812,Truck,Sunny,High,Office,9
+ABC8254,Car,Rainy,Low,Residential,11
+ABC2101,Truck,Foggy,Medium,Shopping Mall,2
+ABC8672,Bike,Sunny,Low,Residential,8
+ABC2373,Bike,Snowy,High,Shopping Mall,3
+ABC5806,SUV,Sunny,High,Residential,11
+ABC1216,Truck,Foggy,Medium,Office,8
+ABC2990,Car,Foggy,High,Shopping Mall,4
+ABC4294,SUV,Sunny,Low,Residential,9
+ABC2903,Bike,Foggy,High,Office,9
+ABC9749,Car,Sunny,Medium,Residential,9
+ABC1304,Bike,Rainy,Low,Office,6
+ABC7641,Car,Snowy,High,Office,9
+ABC7270,Car,Rainy,Medium,Shopping Mall,3
+ABC8975,SUV,Rainy,Medium,Office,5
+ABC4081,SUV,Snowy,Low,Residential,12
+ABC3774,Car,Foggy,High,Residential,10
+ABC1530,Truck,Foggy,High,Office,8
+ABC5396,Car,Snowy,High,Residential,11
+ABC7803,Truck,Sunny,Low,Office,7
+ABC4525,Truck,Snowy,Low,Office,8
+ABC6739,Truck,Foggy,Medium,Shopping Mall,2
+ABC1958,Truck,Rainy,Medium,Shopping Mall,2
+ABC2076,Truck,Rainy,High,Shopping Mall,4
+ABC6322,Bike,Snowy,High,Office,5
+ABC4947,SUV,Snowy,High,Shopping Mall,3
+ABC7792,SUV,Snowy,High,Shopping Mall,3
+ABC3687,Bike,Snowy,High,Shopping Mall,4
+ABC8541,Car,Foggy,Medium,Residential,12
+ABC8335,Truck,Rainy,High,Office,10
+ABC4761,Car,Rainy,Medium,Residential,9
+ABC3268,SUV,Rainy,Medium,Office,8
+ABC8606,Bike,Snowy,Medium,Shopping Mall,3
+ABC9395,SUV,Foggy,High,Shopping Mall,4
+ABC5687,SUV,Foggy,Medium,Residential,10
+ABC6830,Bike,Snowy,Medium,Office,7
+ABC8541,Truck,Foggy,Low,Residential,10
+ABC4047,Car,Rainy,Low,Shopping Mall,3
+ABC7522,Car,Rainy,Medium,Office,8
+ABC2032,Bike,Snowy,High,Office,9
+ABC4736,Truck,Rainy,High,Shopping Mall,3
+ABC5577,Truck,Snowy,Medium,Office,6
+ABC5552,Truck,Snowy,High,Shopping Mall,2
+ABC2038,Bike,Snowy,Low,Shopping Mall,3
+ABC5043,SUV,Snowy,High,Residential,7
+ABC5162,Car,Snowy,Low,Residential,10
+ABC2202,Bike,Rainy,High,Residential,8
+ABC7680,Car,Rainy,Medium,Shopping Mall,2
+ABC1377,Car,Sunny,Medium,Office,6
+ABC9801,Bike,Snowy,Medium,Residential,10
+ABC6568,Truck,Sunny,Medium,Office,4
+ABC6558,SUV,Foggy,High,Shopping Mall,5
+ABC8308,Car,Rainy,High,Office,6
+ABC8936,SUV,Foggy,Low,Shopping Mall,2
+ABC5107,Truck,Rainy,High,Office,9
+ABC3144,Bike,Snowy,Low,Shopping Mall,2
+ABC9169,SUV,Sunny,High,Residential,13
+ABC2863,Car,Sunny,Medium,Residential,7
+ABC4330,Car,Rainy,High,Office,8
+ABC7226,SUV,Rainy,Medium,Residential,10
+ABC5755,Bike,Snowy,Medium,Residential,7
+ABC8055,Truck,Sunny,Medium,Shopping Mall,3
+ABC4593,Car,Sunny,High,Residential,13
+ABC4640,SUV,Rainy,Medium,Shopping Mall,3
+ABC3656,Truck,Snowy,High,Residential,13
+ABC7061,Bike,Snowy,Medium,Office,4
+ABC5471,SUV,Sunny,Medium,Residential,10
+ABC9179,Truck,Rainy,Low,Office,6
+ABC7307,Car,Snowy,High,Office,7
+ABC3510,SUV,Foggy,Low,Shopping Mall,3
+ABC7208,Truck,Sunny,High,Office,5
+ABC6667,Car,Snowy,High,Shopping Mall,3
+ABC1874,Car,Foggy,High,Shopping Mall,3
+ABC6256,Bike,Snowy,Medium,Shopping Mall,2
+ABC3266,SUV,Foggy,High,Residential,14
+ABC4327,Car,Sunny,Low,Shopping Mall,1
+ABC3911,Truck,Rainy,High,Shopping Mall,5
+ABC2420,Bike,Foggy,Medium,Shopping Mall,2
+ABC1373,Truck,Rainy,Medium,Office,9
+ABC1834,Truck,Snowy,Low,Residential,10
+ABC5448,Car,Sunny,Medium,Residential,6
+ABC7744,Car,Sunny,Medium,Residential,8
+ABC1337,Truck,Rainy,Low,Shopping Mall,4
+ABC3045,Car,Foggy,Low,Shopping Mall,2
+ABC3264,Bike,Sunny,Low,Office,8
+ABC4508,SUV,Sunny,High,Shopping Mall,4
+ABC1496,Car,Sunny,High,Shopping Mall,3
+ABC6219,SUV,Foggy,Medium,Residential,10
+ABC2320,Truck,Rainy,Low,Office,7
+ABC8900,Car,Snowy,Medium,Residential,11
+ABC3823,Bike,Foggy,Medium,Shopping Mall,2
+ABC3622,Car,Foggy,Low,Office,9
+ABC9786,Truck,Rainy,Low,Residential,7
+ABC2958,Truck,Snowy,High,Residential,13
+ABC4805,SUV,Rainy,Medium,Office,8
+ABC1976,Truck,Foggy,Medium,Residential,10
+ABC2983,Bike,Snowy,Low,Residential,10
+ABC9995,Bike,Sunny,Medium,Shopping Mall,3
+ABC5568,Truck,Sunny,Low,Office,5
+ABC9094,SUV,Snowy,Low,Residential,8
+ABC9019,Car,Sunny,High,Shopping Mall,3
+ABC3830,Truck,Sunny,Low,Shopping Mall,1
+ABC7580,Car,Rainy,Low,Shopping Mall,3
+ABC1248,Car,Sunny,Low,Office,7
+ABC7011,Truck,Foggy,Low,Residential,10
+ABC1552,SUV,Foggy,Medium,Office,8
+ABC5171,Car,Rainy,Medium,Residential,10
+ABC5264,Bike,Foggy,Low,Residential,9
+ABC4231,Bike,Foggy,High,Residential,11
+ABC2856,Bike,Rainy,Medium,Shopping Mall,3
+ABC4242,SUV,Foggy,High,Shopping Mall,3
+ABC6323,Bike,Sunny,High,Residential,8
+ABC1012,Truck,Sunny,Medium,Office,7
+ABC1951,SUV,Snowy,Medium,Office,5
+ABC3579,Car,Foggy,High,Office,7
+ABC3100,SUV,Rainy,Medium,Residential,11
+ABC6239,SUV,Rainy,High,Office,7
+ABC3781,Bike,Sunny,High,Office,9
+ABC9429,Bike,Foggy,Medium,Shopping Mall,4
+ABC1927,SUV,Foggy,Low,Residential,13
+ABC3453,Car,Sunny,High,Residential,12
+ABC3536,SUV,Sunny,Low,Shopping Mall,3
+ABC1668,SUV,Sunny,Medium,Office,7
+ABC6454,Truck,Rainy,Medium,Office,7
+ABC9673,Bike,Sunny,Low,Residential,10
+ABC1051,Truck,Sunny,Medium,Office,5
+ABC7317,Car,Foggy,High,Residential,14
+ABC5106,Truck,Sunny,Low,Office,7
+ABC7542,Car,Rainy,High,Shopping Mall,3
+ABC9745,Bike,Rainy,Low,Residential,9
+ABC8255,Bike,Foggy,Medium,Residential,8
+ABC2515,Bike,Rainy,High,Office,7
+ABC9178,Bike,Snowy,Low,Office,4
+ABC6524,SUV,Snowy,Medium,Residential,10
+ABC9438,Truck,Foggy,High,Residential,11
+ABC3965,Truck,Sunny,Medium,Shopping Mall,1
+ABC7399,Car,Snowy,Low,Office,6
+ABC6524,Truck,Rainy,Low,Residential,11
+ABC4936,Bike,Foggy,Medium,Shopping Mall,2
+ABC3403,SUV,Sunny,High,Shopping Mall,4
+ABC1630,Truck,Snowy,High,Office,7
+ABC8008,Car,Snowy,Medium,Shopping Mall,3
+ABC4433,Car,Rainy,Low,Shopping Mall,3
+ABC6284,SUV,Sunny,Medium,Shopping Mall,3
+ABC9172,Truck,Snowy,Medium,Office,6
+ABC7932,Truck,Rainy,Low,Shopping Mall,4
+ABC1220,Truck,Sunny,Medium,Office,7
+ABC5953,Car,Rainy,Low,Shopping Mall,4
+ABC2325,Bike,Snowy,High,Residential,12
+ABC7023,Bike,Foggy,High,Residential,11
+ABC3795,Car,Foggy,Low,Office,8
+ABC4727,SUV,Snowy,High,Shopping Mall,3
+ABC6623,SUV,Rainy,Low,Office,6
+ABC8340,Truck,Foggy,High,Office,9
+ABC2309,Bike,Rainy,High,Residential,12
+ABC9903,Truck,Sunny,High,Office,6
+ABC5022,Car,Snowy,Medium,Shopping Mall,2
+ABC5008,Truck,Foggy,Medium,Residential,10
+ABC3612,SUV,Rainy,Low,Office,8
+ABC7603,Car,Rainy,Low,Office,9
+ABC3054,Car,Foggy,High,Residential,10
+ABC3240,Bike,Sunny,High,Shopping Mall,3
+ABC8434,Bike,Snowy,High,Office,7
+ABC5871,Truck,Rainy,Low,Office,9
+ABC7761,Bike,Foggy,High,Office,10
+ABC1865,Truck,Sunny,Medium,Shopping Mall,3
+ABC3175,SUV,Sunny,High,Office,5
+ABC4900,Car,Foggy,Low,Residential,8
+ABC9029,Car,Sunny,High,Residential,12
+ABC5919,Car,Rainy,Low,Shopping Mall,2
+ABC4420,Car,Sunny,Low,Shopping Mall,3
+ABC2938,Bike,Foggy,Medium,Residential,12
+ABC5511,Car,Sunny,Low,Office,5
+ABC7744,Car,Rainy,Low,Shopping Mall,2
+ABC6097,SUV,Foggy,Medium,Office,8
+ABC3180,SUV,Foggy,High,Office,6
+ABC6385,Car,Sunny,Low,Residential,6
+ABC3091,Truck,Sunny,High,Residential,8
+ABC7053,Car,Sunny,Medium,Shopping Mall,2
+ABC7784,Bike,Snowy,Medium,Office,5
+ABC9374,Bike,Foggy,High,Office,7
+ABC3878,Truck,Snowy,High,Office,9
+ABC7667,Bike,Sunny,High,Office,9
+ABC8155,SUV,Foggy,Medium,Residential,8
+ABC5333,Bike,Rainy,Low,Residential,9
+ABC5751,Car,Sunny,Medium,Residential,7
+ABC5874,Bike,Sunny,Low,Office,5
+ABC1338,SUV,Rainy,High,Office,7
+ABC6060,Truck,Snowy,Medium,Residential,7
+ABC1551,Truck,Snowy,High,Residential,9
+ABC2391,Truck,Rainy,Low,Office,6
+ABC2229,Truck,Rainy,Medium,Office,6
+ABC7279,Car,Snowy,Low,Shopping Mall,2
+ABC7990,SUV,Rainy,Medium,Residential,13
+ABC6540,SUV,Snowy,High,Residential,12
+ABC1637,Truck,Rainy,Low,Shopping Mall,2
+ABC4284,Car,Foggy,High,Office,7
+ABC2946,Bike,Rainy,Low,Office,7
+ABC7253,Bike,Snowy,Low,Shopping Mall,3
+ABC8778,SUV,Snowy,Medium,Office,4
+ABC4019,Car,Rainy,High,Residential,14
+ABC6168,Bike,Rainy,High,Residential,13
+ABC5274,SUV,Snowy,Low,Office,8
+ABC5345,Truck,Foggy,Low,Office,8
+ABC6354,Truck,Rainy,High,Shopping Mall,5
+ABC3575,SUV,Snowy,High,Residential,13
+ABC9105,Truck,Sunny,Low,Residential,8
+ABC6443,Car,Foggy,Medium,Shopping Mall,3
+ABC3903,Truck,Snowy,High,Residential,9
+ABC6397,Car,Snowy,High,Office,8
+ABC6676,Car,Rainy,High,Office,7
+ABC3709,Bike,Sunny,Low,Shopping Mall,3
+ABC7331,Bike,Foggy,High,Residential,12
+ABC8777,Bike,Foggy,Medium,Shopping Mall,3
+ABC9893,Truck,Rainy,Low,Shopping Mall,3
+ABC4095,Car,Sunny,Low,Shopping Mall,3
+ABC3951,SUV,Rainy,High,Shopping Mall,4
+ABC3445,Truck,Snowy,Medium,Office,5
+ABC5486,Truck,Snowy,Low,Shopping Mall,2
+ABC8806,Truck,Sunny,Low,Residential,12
+ABC5553,Car,Snowy,Medium,Residential,8
+ABC7985,Car,Snowy,Low,Office,5
+ABC5247,Car,Snowy,Low,Shopping Mall,1
+ABC2355,Bike,Rainy,High,Shopping Mall,4
+ABC5604,Bike,Foggy,Medium,Shopping Mall,4
+ABC4233,Bike,Snowy,Low,Office,7
+ABC3577,Bike,Sunny,High,Residential,12
+ABC4364,Bike,Snowy,Low,Office,7
+ABC1963,Truck,Rainy,Low,Residential,7
+ABC3770,Car,Rainy,Low,Residential,8
+ABC3990,SUV,Foggy,Medium,Residential,11
+ABC9894,Bike,Snowy,Medium,Shopping Mall,2
+ABC6200,Car,Rainy,Medium,Office,6
+ABC1873,Bike,Foggy,Low,Residential,12
+ABC6104,Truck,Snowy,Low,Residential,8
+ABC9403,SUV,Sunny,High,Shopping Mall,3
+ABC9547,Truck,Sunny,Medium,Residential,12
+ABC1188,SUV,Sunny,Medium,Residential,6
+ABC8453,Truck,Sunny,Low,Office,6
+ABC9602,SUV,Sunny,Medium,Shopping Mall,2
+ABC4606,SUV,Rainy,Low,Office,7
+ABC7732,Truck,Rainy,High,Office,9
+ABC9057,Bike,Rainy,Medium,Residential,8
+ABC2323,Bike,Snowy,High,Office,9
+ABC9803,Bike,Sunny,High,Shopping Mall,3
+ABC3966,Car,Sunny,Medium,Shopping Mall,1
+ABC4895,Truck,Foggy,High,Shopping Mall,5
+ABC1756,Car,Foggy,High,Office,10
+ABC4631,Car,Rainy,Medium,Residential,8
+ABC5924,Truck,Snowy,Low,Shopping Mall,1
+ABC7290,Car,Snowy,High,Office,5
+ABC5004,Truck,Rainy,Low,Residential,13
+ABC4269,SUV,Sunny,Low,Office,6
+ABC4368,Car,Rainy,Medium,Office,6
+ABC6972,SUV,Sunny,High,Residential,7
+ABC3831,SUV,Sunny,Medium,Shopping Mall,3
+ABC1318,Bike,Rainy,Low,Shopping Mall,2
+ABC9977,Bike,Rainy,Medium,Residential,13
