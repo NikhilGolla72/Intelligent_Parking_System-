@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Parking System - Vellore</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Parking System - Vellore, Tamil Nadu</h1>
+
+    <label for="vehicle_number">Enter Vehicle Number:</label>
+    <input type="text" id="vehicle_number" placeholder="ABC1234">
+    
+    <label for="vehicle_type">Vehicle Type:</label>
+    <select id="vehicle_type">
+        <option value="Car">Car</option>
+        <option value="Bike">Bike</option>
+        <option value="SUV">SUV</option>
+        <option value="Truck">Truck</option>
+    </select>
+
+    <label for="location">Location Type:</label>
+    <select id="location">
+        <option value="Residential">Residential</option>
+        <option value="Office">Office</option>
+        <option value="Shopping Mall">Shopping Mall</option>
+    </select>
+
+    <button onclick="getParkingTime()">Check Parking Time</button>
+    
+    <h3 id="result"></h3>
+    <h4 id="weather"></h4>
+    <h4 id="traffic"></h4>
+    <h4 id="assigned_slot"></h4>
+
+    <div class="grid"></div>
+
+    <script>
+        let parkingSlots = {{ parking_slots|safe }};
+
+        function getParkingTime() {
+            let vehicleNumber = document.getElementById("vehicle_number").value;
+            let vehicleType = document.getElementById("vehicle_type").value;
+            let location = document.getElementById("location").value;
+
+            fetch("/predict", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ "vehicle_type": vehicleType, "location": location })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("result").innerText = "Estimated Parking Time: " + data.predicted_parking_time + " hours";
+                document.getElementById("weather").innerText = "Current Weather in Vellore: " + data.weather;
+                document.getElementById("traffic").innerText = "Traffic Speed in Vellore: " + data.traffic;
+                document.getElementById("assigned_slot").innerText = "Assigned Slot: " + data.assigned_slot;
+
+                // Mark the assigned slot as occupied
+                updateParkingGrid(data.assigned_slot);
+            });
+        }
+
+        function generateParkingGrid() {
+            let grid = document.querySelector(".grid");
+            for (let i = 1; i <= 400; i++) {
+                let div = document.createElement("div");
+                div.classList.add("slot", parkingSlots[i] === 1 ? "occupied" : "available");
+                div.innerText = i;
+                div.setAttribute("id", "slot-" + i);
+                grid.appendChild(div);
+            }
+        }
+
+        function updateParkingGrid(assignedSlot) {
+            let slotDiv = document.getElementById("slot-" + assignedSlot);
+            if (slotDiv) {
+                slotDiv.classList.remove("available");
+                slotDiv.classList.add("occupied");
+            }
+        }
+
+        generateParkingGrid();
+    </script>
+</body>
+</html>
